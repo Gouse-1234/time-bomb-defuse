@@ -1,0 +1,32 @@
+body {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url("https://media4.giphy.com/media/xUOxeXt41UOYRusw4E/giphy.gif");
+    background-image: cover;
+}
+
+
+.bomb-container {
+    background-color: cadetblue;
+    height: 60vh;
+    width: 50vw;
+    text-align: center;
+    border-radius: 20px;
+}
+
+input {
+    height: 40px;
+    width: 360px;
+    padding: 8px;
+    margin-top: 90px;
+}
+
+button {
+    background-color: blue;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    border-radius: 8px;
+}
